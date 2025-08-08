@@ -16,5 +16,5 @@ A Lethal Company mod that allows you to set custom profit quota caps for each co
 
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-### License
+## License
 This project is licensed under the MIT License.
